@@ -54,7 +54,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 2694250995160773170}
-  f_speed: 12
+  f_speed: 70
   m_anim: {fileID: 1551671053594407114}
 --- !u!114 &2694250995160773170
 MonoBehaviour:
