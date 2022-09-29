@@ -1,0 +1,4812 @@
+fileFormatVersion: 2
+guid: 219ed66a3cc007242a3419bbd821597c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8335410136597526796
+    second: roger-ghost-spritesheet_0
+  - first:
+      213: -2568959975971461008
+    second: roger-ghost-spritesheet_1
+  - first:
+      213: -4038058735939554352
+    second: roger-ghost-spritesheet_2
+  - first:
+      213: 6854632229102470234
+    second: roger-ghost-spritesheet_3
+  - first:
+      213: -3613664215386232268
+    second: roger-ghost-spritesheet_4
+  - first:
+      213: -3998360511189717346
+    second: roger-ghost-spritesheet_5
+  - first:
+      213: -4445217550906405922
+    second: roger-ghost-spritesheet_6
+  - first:
+      213: 279011217182315388
+    second: roger-ghost-spritesheet_7
+  - first:
+      213: 9187350814980147253
+    second: roger-ghost-spritesheet_8
+  - first:
+      213: 2435414056279020471
+    second: roger-ghost-spritesheet_9
+  - first:
+      213: 5722763741030033292
+    second: roger-ghost-spritesheet_10
+  - first:
+      213: 698299869630338624
+    second: roger-ghost-spritesheet_11
+  - first:
+      213: -6780298918595043163
+    second: roger-ghost-spritesheet_12
+  - first:
+      213: -8392324510005346785
+    second: roger-ghost-spritesheet_13
+  - first:
+      213: -3662814287012194555
+    second: roger-ghost-spritesheet_14
+  - first:
+      213: 1527506909809864795
+    second: roger-ghost-spritesheet_15
+  - first:
+      213: -2571245370346109605
+    second: roger-ghost-spritesheet_16
+  - first:
+      213: -6747161142927766238
+    second: roger-ghost-spritesheet_17
+  - first:
+      213: -7574236650034320864
+    second: roger-ghost-spritesheet_18
+  - first:
+      213: 9140609046432272998
+    second: roger-ghost-spritesheet_19
+  - first:
+      213: -7953203784636292037
+    second: roger-ghost-spritesheet_20
+  - first:
+      213: -1692735932846971441
+    second: roger-ghost-spritesheet_21
+  - first:
+      213: -4498388874775524332
+    second: roger-ghost-spritesheet_22
+  - first:
+      213: -3918545407829954995
+    second: roger-ghost-spritesheet_23
+  - first:
+      213: 1659318379227658221
+    second: roger-ghost-spritesheet_24
+  - first:
+      213: 1932978865254306989
+    second: roger-ghost-spritesheet_25
+  - first:
+      213: -273414097019891397
+    second: roger-ghost-spritesheet_26
+  - first:
+      213: -214887605218268274
+    second: roger-ghost-spritesheet_27
+  - first:
+      213: -1276770631910387185
+    second: roger-ghost-spritesheet_28
+  - first:
+      213: 8416361677961330142
+    second: roger-ghost-spritesheet_29
+  - first:
+      213: -4224930234770883807
+    second: roger-ghost-spritesheet_30
+  - first:
+      213: -2085486273551392816
+    second: roger-ghost-spritesheet_31
+  - first:
+      213: 2749478327579111596
+    second: roger-ghost-spritesheet_32
+  - first:
+      213: 5494224546911214278
+    second: roger-ghost-spritesheet_33
+  - first:
+      213: -3661456977639880454
+    second: roger-ghost-spritesheet_34
+  - first:
+      213: -3505672142469051191
+    second: roger-ghost-spritesheet_35
+  - first:
+      213: 6495118810338795248
+    second: roger-ghost-spritesheet_36
+  - first:
+      213: 5507094371705523918
+    second: roger-ghost-spritesheet_37
+  - first:
+      213: 9063586273027514412
+    second: roger-ghost-spritesheet_38
+  - first:
+      213: -6453823685005222752
+    second: roger-ghost-spritesheet_39
+  - first:
+      213: -2782964480157680781
+    second: roger-ghost-spritesheet_40
+  - first:
+      213: -6289498593075173831
+    second: roger-ghost-spritesheet_41
+  - first:
+      213: -4144754780285018115
+    second: roger-ghost-spritesheet_42
+  - first:
+      213: -4477274359828783818
+    second: roger-ghost-spritesheet_43
+  - first:
+      213: 8646800783794063995
+    second: roger-ghost-spritesheet_44
+  - first:
+      213: 35017370206564240
+    second: roger-ghost-spritesheet_45
+  - first:
+      213: -5648695944208622347
+    second: roger-ghost-spritesheet_46
+  - first:
+      213: -7272083437439699437
+    second: roger-ghost-spritesheet_47
+  - first:
+      213: 2513598529472737939
+    second: roger-ghost-spritesheet_48
+  - first:
+      213: 5408658244276171696
+    second: roger-ghost-spritesheet_49
+  - first:
+      213: -1412091327993228752
+    second: roger-ghost-spritesheet_50
+  - first:
+      213: 8408301332654341224
+    second: roger-ghost-spritesheet_51
+  - first:
+      213: -7300073495911845753
+    second: roger-ghost-spritesheet_52
+  - first:
+      213: 7328613322666144680
+    second: roger-ghost-spritesheet_53
+  - first:
+      213: -5919926715871763064
+    second: roger-ghost-spritesheet_54
+  - first:
+      213: 5937993326739805639
+    second: roger-ghost-spritesheet_55
+  - first:
+      213: -6304161988821073668
+    second: roger-ghost-spritesheet_56
+  - first:
+      213: 4373554432965629303
+    second: roger-ghost-spritesheet_57
+  - first:
+      213: -3042731181416341848
+    second: roger-ghost-spritesheet_58
+  - first:
+      213: -7664117932871462333
+    second: roger-ghost-spritesheet_59
+  - first:
+      213: 609277011615231504
+    second: roger-ghost-spritesheet_60
+  - first:
+      213: 1346080307062284094
+    second: roger-ghost-spritesheet_61
+  - first:
+      213: -2880469815255078414
+    second: roger-ghost-spritesheet_62
+  - first:
+      213: 8388227310381990177
+    second: roger-ghost-spritesheet_63
+  - first:
+      213: -4171320248539681784
+    second: roger-ghost-spritesheet_64
+  - first:
+      213: 2955262757488347540
+    second: roger-ghost-spritesheet_65
+  - first:
+      213: -6108632665552920381
+    second: roger-ghost-spritesheet_66
+  - first:
+      213: -5683216650884524882
+    second: roger-ghost-spritesheet_67
+  - first:
+      213: 1217416123503317672
+    second: roger-ghost-spritesheet_68
+  - first:
+      213: -3493851653216548984
+    second: roger-ghost-spritesheet_69
+  - first:
+      213: -241652367257530889
+    second: roger-ghost-spritesheet_70
+  - first:
+      213: -1594699763753658432
+    second: roger-ghost-spritesheet_71
+  - first:
+      213: 7590389150304252248
+    second: roger-ghost-spritesheet_72
+  - first:
+      213: 1818328603743625819
+    second: roger-ghost-spritesheet_73
+  - first:
+      213: -6053401686281590337
+    second: roger-ghost-spritesheet_74
+  - first:
+      213: -893210000206169374
+    second: roger-ghost-spritesheet_75
+  - first:
+      213: -1979336751512911026
+    second: roger-ghost-spritesheet_76
+  - first:
+      213: -8819151646268127836
+    second: roger-ghost-spritesheet_77
+  - first:
+      213: 1312914637277171160
+    second: roger-ghost-spritesheet_78
+  - first:
+      213: -7264924102097780756
+    second: roger-ghost-spritesheet_79
+  - first:
+      213: -463220886917092599
+    second: roger-ghost-spritesheet_80
+  - first:
+      213: 2386637100606927200
+    second: roger-ghost-spritesheet_81
+  - first:
+      213: 6445265222155440897
+    second: roger-ghost-spritesheet_82
+  - first:
+      213: -7874063026543830451
+    second: roger-ghost-spritesheet_83
+  - first:
+      213: 1121839034450492041
+    second: roger-ghost-spritesheet_84
+  - first:
+      213: 3403356941275690560
+    second: roger-ghost-spritesheet_85
+  - first:
+      213: -5371577499393293330
+    second: roger-ghost-spritesheet_86
+  - first:
+      213: 8415232584290075691
+    second: roger-ghost-spritesheet_87
+  - first:
+      213: -4377152384053000488
+    second: roger-ghost-spritesheet_88
+  - first:
+      213: 1607622947755746834
+    second: roger-ghost-spritesheet_89
+  - first:
+      213: 5576635516531930940
+    second: roger-ghost-spritesheet_90
+  - first:
+      213: 5508179907008233268
+    second: roger-ghost-spritesheet_91
+  - first:
+      213: 7734564946640772525
+    second: roger-ghost-spritesheet_92
+  - first:
+      213: 1003378434129902601
+    second: roger-ghost-spritesheet_93
+  - first:
+      213: 2327317118473940823
+    second: roger-ghost-spritesheet_94
+  - first:
+      213: 8030781355813983058
+    second: roger-ghost-spritesheet_95
+  - first:
+      213: 8608127120631378433
+    second: roger-ghost-spritesheet_96
+  - first:
+      213: -8986337447434421855
+    second: roger-ghost-spritesheet_97
+  - first:
+      213: -5581110915951068768
+    second: roger-ghost-spritesheet_98
+  - first:
+      213: -1079253729822088748
+    second: roger-ghost-spritesheet_99
+  - first:
+      213: -8649543818758985526
+    second: roger-ghost-spritesheet_100
+  - first:
+      213: -6276710274181163728
+    second: roger-ghost-spritesheet_101
+  - first:
+      213: -5508239639260819057
+    second: roger-ghost-spritesheet_102
+  - first:
+      213: -7202496015238844689
+    second: roger-ghost-spritesheet_103
+  - first:
+      213: 2555057790930433843
+    second: roger-ghost-spritesheet_104
+  - first:
+      213: -6734652445421827781
+    second: roger-ghost-spritesheet_105
+  - first:
+      213: -1871197749748564694
+    second: roger-ghost-spritesheet_106
+  - first:
+      213: -6480100616413895550
+    second: roger-ghost-spritesheet_107
+  - first:
+      213: 8524705400030128034
+    second: roger-ghost-spritesheet_108
+  - first:
+      213: -4563064080236618612
+    second: roger-ghost-spritesheet_109
+  - first:
+      213: 8127475685754034367
+    second: roger-ghost-spritesheet_110
+  - first:
+      213: -6046068319012654173
+    second: roger-ghost-spritesheet_111
+  - first:
+      213: -5942487228723478773
+    second: roger-ghost-spritesheet_112
+  - first:
+      213: 1488626359044237073
+    second: roger-ghost-spritesheet_113
+  - first:
+      213: 630358606345120891
+    second: roger-ghost-spritesheet_114
+  - first:
+      213: -884461993008097042
+    second: roger-ghost-spritesheet_115
+  - first:
+      213: -8958654694100664329
+    second: roger-ghost-spritesheet_116
+  - first:
+      213: -7453350226774152690
+    second: roger-ghost-spritesheet_117
+  - first:
+      213: -5210172531115335155
+    second: roger-ghost-spritesheet_118
+  - first:
+      213: -8939770290963578152
+    second: roger-ghost-spritesheet_119
+  - first:
+      213: -7257910245347665507
+    second: roger-ghost-spritesheet_120
+  - first:
+      213: 290556749060431002
+    second: roger-ghost-spritesheet_121
+  - first:
+      213: 2151163409809992799
+    second: roger-ghost-spritesheet_122
+  - first:
+      213: -3034999332720068560
+    second: roger-ghost-spritesheet_123
+  - first:
+      213: -3183632242676145959
+    second: roger-ghost-spritesheet_124
+  - first:
+      213: -1433283970703953978
+    second: roger-ghost-spritesheet_125
+  - first:
+      213: 3828165548220376127
+    second: roger-ghost-spritesheet_126
+  - first:
+      213: 8801649944682693349
+    second: roger-ghost-spritesheet_127
+  - first:
+      213: 114193281932988486
+    second: roger-ghost-spritesheet_128
+  - first:
+      213: -1993107927782248294
+    second: roger-ghost-spritesheet_129
+  - first:
+      213: 2320039306495904187
+    second: roger-ghost-spritesheet_130
+  - first:
+      213: 7017408488492803697
+    second: roger-ghost-spritesheet_131
+  - first:
+      213: -6106298265712955957
+    second: roger-ghost-spritesheet_132
+  - first:
+      213: -5498937952625556372
+    second: roger-ghost-spritesheet_133
+  - first:
+      213: -2105049678413854796
+    second: roger-ghost-spritesheet_134
+  - first:
+      213: 9143354815472946643
+    second: roger-ghost-spritesheet_135
+  - first:
+      213: -8869182015152962841
+    second: roger-ghost-spritesheet_136
+  - first:
+      213: 6737687041323841963
+    second: roger-ghost-spritesheet_137
+  - first:
+      213: -5743586682497284999
+    second: roger-ghost-spritesheet_138
+  - first:
+      213: -367486549482636586
+    second: roger-ghost-spritesheet_139
+  - first:
+      213: 2863266247463992375
+    second: roger-ghost-spritesheet_140
+  - first:
+      213: 2008020047576470268
+    second: roger-ghost-spritesheet_141
+  - first:
+      213: -744913487319868230
+    second: roger-ghost-spritesheet_142
+  - first:
+      213: -7875984404596340959
+    second: roger-ghost-spritesheet_143
+  - first:
+      213: -8741210716648351928
+    second: roger-ghost-spritesheet_144
+  - first:
+      213: 7566973045411590673
+    second: roger-ghost-spritesheet_145
+  - first:
+      213: -7441551446351746431
+    second: roger-ghost-spritesheet_146
+  - first:
+      213: -2369240290264815898
+    second: roger-ghost-spritesheet_147
+  - first:
+      213: 2772318032719421983
+    second: roger-ghost-spritesheet_148
+  - first:
+      213: -4773991626617801077
+    second: roger-ghost-spritesheet_149
+  - first:
+      213: 8905431927973022091
+    second: roger-ghost-spritesheet_150
+  - first:
+      213: 7287116176378430931
+    second: roger-ghost-spritesheet_151
+  - first:
+      213: -5956863198239384878
+    second: roger-ghost-spritesheet_152
+  - first:
+      213: -8834696362706391683
+    second: roger-ghost-spritesheet_153
+  - first:
+      213: -3913733439415188443
+    second: roger-ghost-spritesheet_154
+  - first:
+      213: -4426337438308046581
+    second: roger-ghost-spritesheet_155
+  - first:
+      213: -2893039822706103183
+    second: roger-ghost-spritesheet_156
+  - first:
+      213: -1647413663273913845
+    second: roger-ghost-spritesheet_157
+  - first:
+      213: 4811492900002734934
+    second: roger-ghost-spritesheet_158
+  - first:
+      213: 1265196205173327350
+    second: roger-ghost-spritesheet_159
+  - first:
+      213: 6084720262975940349
+    second: roger-ghost-spritesheet_160
+  - first:
+      213: 8509694769507824577
+    second: roger-ghost-spritesheet_161
+  - first:
+      213: -4109259652799104725
+    second: roger-ghost-spritesheet_162
+  - first:
+      213: 127710476778922866
+    second: roger-ghost-spritesheet_163
+  - first:
+      213: -2150864566977293497
+    second: roger-ghost-spritesheet_164
+  - first:
+      213: -3162005698110371511
+    second: roger-ghost-spritesheet_165
+  - first:
+      213: -238424883699556370
+    second: roger-ghost-spritesheet_166
+  - first:
+      213: -3887300736396071885
+    second: roger-ghost-spritesheet_167
+  - first:
+      213: 6881678554777854917
+    second: roger-ghost-spritesheet_168
+  - first:
+      213: 1543112768070786582
+    second: roger-ghost-spritesheet_169
+  - first:
+      213: 221480865598555965
+    second: roger-ghost-spritesheet_170
+  - first:
+      213: 6853568686575144008
+    second: roger-ghost-spritesheet_171
+  - first:
+      213: -681873935785646248
+    second: roger-ghost-spritesheet_172
+  - first:
+      213: 2446132106886367430
+    second: roger-ghost-spritesheet_173
+  - first:
+      213: -4627527256155215053
+    second: roger-ghost-spritesheet_174
+  - first:
+      213: 5453348963249333444
+    second: roger-ghost-spritesheet_175
+  - first:
+      213: -567584678050279134
+    second: roger-ghost-spritesheet_176
+  - first:
+      213: 1810692417852980258
+    second: roger-ghost-spritesheet_177
+  - first:
+      213: -3658764018022532166
+    second: roger-ghost-spritesheet_178
+  - first:
+      213: 8813429291206476266
+    second: roger-ghost-spritesheet_179
+  - first:
+      213: 2791771099858827891
+    second: roger-ghost-spritesheet_180
+  - first:
+      213: -1585843042816639217
+    second: roger-ghost-spritesheet_181
+  - first:
+      213: -6861368042403548927
+    second: roger-ghost-spritesheet_182
+  - first:
+      213: 6189312613969560101
+    second: roger-ghost-spritesheet_183
+  - first:
+      213: -2863674016429401592
+    second: roger-ghost-spritesheet_184
+  - first:
+      213: -1357544752624887160
+    second: roger-ghost-spritesheet_185
+  - first:
+      213: 2763797140900330961
+    second: roger-ghost-spritesheet_186
+  - first:
+      213: 4141991160920165720
+    second: roger-ghost-spritesheet_187
+  - first:
+      213: -8967787812686341611
+    second: roger-ghost-spritesheet_188
+  - first:
+      213: 6304006413627043467
+    second: roger-ghost-spritesheet_189
+  - first:
+      213: 9039048910080427485
+    second: roger-ghost-spritesheet_190
+  - first:
+      213: -8668722914754322035
+    second: roger-ghost-spritesheet_191
+  - first:
+      213: 8288488637388133272
+    second: roger-ghost-spritesheet_192
+  - first:
+      213: 2931738745634305312
+    second: roger-ghost-spritesheet_193
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 929
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f5193b535da370800000000000000
+      internalID: 8335410136597526796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 929
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07866064388395cd0800000000000000
+      internalID: -2568959975971461008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 929
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f82669fee5f7c0800000000000000
+      internalID: -4038058735939554352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 929
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c899e1bb802f50800000000000000
+      internalID: 6854632229102470234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 929
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aec58ca8fa9ddc0800000000000000
+      internalID: -3613664215386232268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 929
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e669e9c48f288c0800000000000000
+      internalID: -3998360511189717346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 929
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb44e0703a6f42c0800000000000000
+      internalID: -4445217550906405922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 929
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c735088493f3fd300800000000000000
+      internalID: 279011217182315388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 929
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53889c9b3e6008f70800000000000000
+      internalID: 9187350814980147253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 929
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b311894e245cc120800000000000000
+      internalID: 2435414056279020471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 929
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87a49d4d475b6f40800000000000000
+      internalID: 5722763741030033292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 929
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046940c180cd0b900800000000000000
+      internalID: 698299869630338624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 929
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06d2e9e0a87e1a0800000000000000
+      internalID: -6780298918595043163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 929
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eb3559259788b80800000000000000
+      internalID: -8392324510005346785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 929
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079968ffc11b2dc0800000000000000
+      internalID: -3662814287012194555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 929
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50fb2ff07bc23510800000000000000
+      internalID: 1527506909809864795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 929
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55072e65f9115cd0800000000000000
+      internalID: -2571245370346109605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 929
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dc87140b44d52a0800000000000000
+      internalID: -6747161142927766238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 929
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa5f595e7e2e690800000000000000
+      internalID: -7574236650034320864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 929
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662515baf77f9de70800000000000000
+      internalID: 9140609046432272998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 865
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b342676bb4b80a190800000000000000
+      internalID: -7953203784636292037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 865
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5ed1833a13288e0800000000000000
+      internalID: -1692735932846971441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 865
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c8f61e6238291c0800000000000000
+      internalID: -4498388874775524332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 865
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eae0286b78e99c0800000000000000
+      internalID: -3918545407829954995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 865
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de734234645170710800000000000000
+      internalID: 1659318379227658221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 865
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da412dd590253da10800000000000000
+      internalID: 1932978865254306989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 865
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319b8ec353a43cf0800000000000000
+      internalID: -273414097019891397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 865
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba4509cd0940df0800000000000000
+      internalID: -214887605218268274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 865
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029459ffdff74ee0800000000000000
+      internalID: -1276770631910387185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 865
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd7814ba5cecc470800000000000000
+      internalID: 8416361677961330142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 865
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b7cab06580e55c0800000000000000
+      internalID: -4224930234770883807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 865
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1409984dde03e0800000000000000
+      internalID: -2085486273551392816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 865
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0fcf8b8fb182620800000000000000
+      internalID: 2749478327579111596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 865
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadfd2ad186f3c40800000000000000
+      internalID: 5494224546911214278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 865
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8466f2744ef2dc0800000000000000
+      internalID: -3661456977639880454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 865
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4621a2c9595fc0800000000000000
+      internalID: -3505672142469051191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 865
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9338352c432a50800000000000000
+      internalID: 6495118810338795248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 865
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece8f0a37212d6c40800000000000000
+      internalID: 5507094371705523918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 865
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2069e2c1b358cd70800000000000000
+      internalID: 9063586273027514412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 865
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acd2446d896f66a0800000000000000
+      internalID: -6453823685005222752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 865
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfba1dc8ce069d0800000000000000
+      internalID: -2782964480157680781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 865
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366f605a5637b8a0800000000000000
+      internalID: -6289498593075173831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 794
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5208bc7fda76c0800000000000000
+      internalID: -4144754780285018115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 793
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd07cf0b68dd1c0800000000000000
+      internalID: -4477274359828783818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 793
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4d99008b9ff770800000000000000
+      internalID: 8646800783794063995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 793
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6128dc186c7000800000000000000
+      internalID: 35017370206564240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 793
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc514187fccb91b0800000000000000
+      internalID: -5648695944208622347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 793
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b76e84ae541b90800000000000000
+      internalID: -7272083437439699437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 673
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392ba218b8812e220800000000000000
+      internalID: 2513598529472737939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 673
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b191540a6f0b40800000000000000
+      internalID: 5408658244276171696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 673
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032dd843b6e376ce0800000000000000
+      internalID: -1412091327993228752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 673
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3e41538940b470800000000000000
+      internalID: 8408301332654341224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 674
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7803ee935dde0ba90800000000000000
+      internalID: -7300073495911845753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 673
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3f5b10df674b560800000000000000
+      internalID: 7328613322666144680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 674
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856e1c540238dda0800000000000000
+      internalID: -5919926715871763064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 673
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c557f6487df76250800000000000000
+      internalID: 5937993326739805639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 674
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ccc1721e1388a0800000000000000
+      internalID: -6304161988821073668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 674
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77550cea59cf1bc30800000000000000
+      internalID: 4373554432965629303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 673
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9ca09c1c06c5d0800000000000000
+      internalID: -3042731181416341848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 673
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342de76a85593a590800000000000000
+      internalID: -7664117932871462333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 673
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2327c636947800800000000000000
+      internalID: 609277011615231504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 673
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f989d48ec3ea210800000000000000
+      internalID: 1346080307062284094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 674
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f96c73e6f38608d0800000000000000
+      internalID: -2880469815255078414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 673
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218c8acb48f86470800000000000000
+      internalID: 8388227310381990177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 675
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce565a55e7c16c0800000000000000
+      internalID: -4171320248539681784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 673
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c80ef1d3330920800000000000000
+      internalID: 2955262757488347540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 673
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ee52a4f6c93ba0800000000000000
+      internalID: -6108632665552920381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 674
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4517621982121b0800000000000000
+      internalID: -5683216650884524882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 674
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a29f31a38125e010800000000000000
+      internalID: 1217416123503317672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 610
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887cd10ce68538fc0800000000000000
+      internalID: -3493851653216548984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 609
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd8b7ac37a75acf0800000000000000
+      internalID: -241652367257530889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 610
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c75012930d7ed9e0800000000000000
+      internalID: -1594699763753658432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 609
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8513dd277ba765960800000000000000
+      internalID: 7590389150304252248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 609
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52221f2b300c3910800000000000000
+      internalID: 1818328603743625819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 609
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb96f661d3ffdfba0800000000000000
+      internalID: -6053401686281590337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 609
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea72ebbc3eaa93f0800000000000000
+      internalID: -893210000206169374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 609
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43823326bbf784e0800000000000000
+      internalID: -1979336751512911026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 609
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a503e7bd441c9580800000000000000
+      internalID: -8819151646268127836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 609
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd015f08e8683210800000000000000
+      internalID: 1312914637277171160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 609
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb946350ecd2b90800000000000000
+      internalID: -7264924102097780756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 609
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be3cebe0f4299f0800000000000000
+      internalID: -463220886917092599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 609
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b17d4cc90f1120800000000000000
+      internalID: 2386637100606927200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 610
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10311c1329e227950800000000000000
+      internalID: 6445265222155440897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 610
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a51db5565b9b290800000000000000
+      internalID: -7874063026543830451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 609
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab69778a2919f00800000000000000
+      internalID: 1121839034450492041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 610
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f8983b172b3f20800000000000000
+      internalID: 3403356941275690560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 609
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38e2169b25475b0800000000000000
+      internalID: -5371577499393293330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 609
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2407e81379e8c470800000000000000
+      internalID: 8415232584290075691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 609
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d644cc091b3143c0800000000000000
+      internalID: -4377152384053000488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 610
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2166fbdad8c6f4610800000000000000
+      internalID: 1607622947755746834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 610
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3776bcb470346d40800000000000000
+      internalID: 5576635516531930940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 545
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f7b2c117cf07c40800000000000000
+      internalID: 5508179907008233268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 545
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad16b8e6d1b65b60800000000000000
+      internalID: 7734564946640772525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 544
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb995ae57bced00800000000000000
+      internalID: 1003378434129902601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 545
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f235ea69a4c4020800000000000000
+      internalID: 2327317118473940823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 545
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2535f1e1811137f60800000000000000
+      internalID: 8030781355813983058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 545
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b3a62206367770800000000000000
+      internalID: 8608127120631378433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 425
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a971e504bd1a4380800000000000000
+      internalID: -8986337447434421855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 425
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97ea22139eb82b0800000000000000
+      internalID: -5581110915951068768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 425
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1607b6378b501f0800000000000000
+      internalID: -1079253729822088748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 425
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e1bd59b5a6f780800000000000000
+      internalID: -8649543818758985526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 425
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0351365d245a4e8a0800000000000000
+      internalID: -6276710274181163728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 425
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8112246b3dce83b0800000000000000
+      internalID: -5508239639260819057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 425
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea58bd8089b0c90800000000000000
+      internalID: -7202496015238844689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 425
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b0090683657320800000000000000
+      internalID: 2555057790930433843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 426
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398ae85845b982a0800000000000000
+      internalID: -6734652445421827781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 425
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df9b58f8b2806e0800000000000000
+      internalID: -1871197749748564694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 425
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2842cd982de0216a0800000000000000
+      internalID: -6480100616413895550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 425
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a766af3566dd4670800000000000000
+      internalID: 8524705400030128034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 426
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd62a256dbca0c0800000000000000
+      internalID: -4563064080236618612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 425
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85ef133189ac070800000000000000
+      internalID: 8127475685754034367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 425
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f185b5ec081ca0800000000000000
+      internalID: -6046068319012654173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 425
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f34a1a95b088da0800000000000000
+      internalID: -5942487228723478773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 425
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176d1659c9a8a410800000000000000
+      internalID: 1488626359044237073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 425
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7caf4c00db7fb800800000000000000
+      internalID: 630358606345120891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 426
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81b61e082c9b3f0800000000000000
+      internalID: -884461993008097042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 426
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff7ebc45077ca380800000000000000
+      internalID: -8958654694100664329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 361
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aac825571609890800000000000000
+      internalID: -7453350226774152690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 361
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d026f5800bfb1b7b0800000000000000
+      internalID: -5210172531115335155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 361
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d28689094e8fe380800000000000000
+      internalID: -8939770290963578152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 361
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99526ef519b64b90800000000000000
+      internalID: -7257910245347665507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 361
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd6d6e2d3480400800000000000000
+      internalID: 290556749060431002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 361
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cea8f49b77add10800000000000000
+      internalID: 2151163409809992799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 361
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383cafdf2481e5d0800000000000000
+      internalID: -3034999332720068560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 361
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0eec7c75771d3d0800000000000000
+      internalID: -3183632242676145959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 361
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfedef82d3fb1ce0800000000000000
+      internalID: -1433283970703953978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 361
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34601b9840602530800000000000000
+      internalID: 3828165548220376127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 362
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e20626ddfdb52a70800000000000000
+      internalID: 8801649944682693349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 361
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401a555f22b59100800000000000000
+      internalID: 114193281932988486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 400
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90368d46ee0754e0800000000000000
+      internalID: -1993107927782248294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 361
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c1a8057f623020800000000000000
+      internalID: 2320039306495904187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 362
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176ac6827d7d26160800000000000000
+      internalID: 7017408488492803697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 361
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd68937412124ba0800000000000000
+      internalID: -6106298265712955957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 361
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6407d31119dfa3b0800000000000000
+      internalID: -5498937952625556372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 361
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b78793787c59c2e0800000000000000
+      internalID: -2105049678413854796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 361
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4f97d2c8b3ee70800000000000000
+      internalID: 9143354815472946643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 362
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2468ab2f55ae480800000000000000
+      internalID: -8869182015152962841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 361
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93cd19aa2118d50800000000000000
+      internalID: 6737687041323841963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 363
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c515d75eaa40b0800000000000000
+      internalID: -5743586682497284999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 362
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da7a562eec66eaf0800000000000000
+      internalID: -367486549482636586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 297
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf4795b7d5cb720800000000000000
+      internalID: 2863266247463992375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 297
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf298a5289beddb10800000000000000
+      internalID: 2008020047576470268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 296
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd6e7412989a5f0800000000000000
+      internalID: -744913487319868230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 297
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c48ba9e1e2b290800000000000000
+      internalID: -7875984404596340959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 297
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84756578a2bf0b680800000000000000
+      internalID: -8741210716648351928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 296
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112b6bca4e9430960800000000000000
+      internalID: 7566973045411590673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae866f26c4ab890800000000000000
+      internalID: -7441551446351746431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 177
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e83f3284ce1fd0800000000000000
+      internalID: -2369240290264815898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 177
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a6a8ff80497620800000000000000
+      internalID: 2772318032719421983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 177
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b1c6c8ef5fbdb0800000000000000
+      internalID: -4773991626617801077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 177
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89014ec723769b70800000000000000
+      internalID: 8905431927973022091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 177
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d50a0abd89012560800000000000000
+      internalID: 7287116176378430931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 177
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da18556b78f45da0800000000000000
+      internalID: -5956863198239384878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 177
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2372677ad46580800000000000000
+      internalID: -8834696362706391683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 177
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52407163c20afa9c0800000000000000
+      internalID: -3913733439415188443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 177
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e2a53d8d7292c0800000000000000
+      internalID: -4426337438308046581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 180
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2b86fb9bd9d7d0800000000000000
+      internalID: -2893039822706103183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 179
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02fe6a60063329e0800000000000000
+      internalID: -1647413663273913845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 178
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532af7dc4bd5c240800000000000000
+      internalID: 4811492900002734934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 179
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5478cce31ee8110800000000000000
+      internalID: 1265196205173327350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 180
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66d4847d4417450800000000000000
+      internalID: 6084720262975940349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 180
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3738b7e42881670800000000000000
+      internalID: 8509694769507824577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 180
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2970191e1af8f6c0800000000000000
+      internalID: -4109259652799104725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 178
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e0828008b5c100800000000000000
+      internalID: 127710476778922866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 179
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743185572189622e0800000000000000
+      internalID: -2150864566977293497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 178
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ce52129c4e14d0800000000000000
+      internalID: -3162005698110371511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef597dd4d1f0bcf0800000000000000
+      internalID: -238424883699556370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 113
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c6ff773988d0ac0800000000000000
+      internalID: -3887300736396071885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c325f35f22a08f50800000000000000
+      internalID: 6881678554777854917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 113
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9a3503ec3a6510800000000000000
+      internalID: 1543112768070786582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 113
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374c8e7cabd21300800000000000000
+      internalID: 221480865598555965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 113
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4d0f9864cc1f50800000000000000
+      internalID: 6853568686575144008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 113
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85726e3a44f7986f0800000000000000
+      internalID: -681873935785646248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 113
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c3a8e03862f120800000000000000
+      internalID: 2446132106886367430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 113
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2e6c6a78b7cfb0800000000000000
+      internalID: -4627527256155215053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 113
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a8be2dff2eab40800000000000000
+      internalID: 5453348963249333444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 113
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221dbd41eb88f18f0800000000000000
+      internalID: -567584678050279134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 116
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cbe9b192fd02910800000000000000
+      internalID: 1810692417852980258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 114
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb39c4b285793dc0800000000000000
+      internalID: -3658764018022532166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 114
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1826bae379f4a70800000000000000
+      internalID: 8813429291206476266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 114
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a794d160d5eb620800000000000000
+      internalID: 2791771099858827891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 116
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb36b9724fdf9e0800000000000000
+      internalID: -1585843042816639217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 116
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b1575e1687c0a0800000000000000
+      internalID: -6861368042403548927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 117
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522008fa70bd4e550800000000000000
+      internalID: 6189312613969560101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 116
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a953a87af2248d0800000000000000
+      internalID: -2863674016429401592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 116
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a19157d38092de0800000000000000
+      internalID: -1357544752624887160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 115
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddba9e3bdafa5620800000000000000
+      internalID: 2763797140900330961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 116
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4471040f4b7930800000000000000
+      internalID: 4141991160920165720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad0cb6f740c8380800000000000000
+      internalID: -8967787812686341611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2602ee645c7750800000000000000
+      internalID: 6304006413627043467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 47
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c9b0c717217d70800000000000000
+      internalID: 9039048910080427485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 48
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a7c9107282b780800000000000000
+      internalID: -8668722914754322035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 48
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893916c5080a60370800000000000000
+      internalID: 8288488637388133272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roger-ghost-spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 47
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02538cb2bd0afa820800000000000000
+      internalID: 2931738745634305312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

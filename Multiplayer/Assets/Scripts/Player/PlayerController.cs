@@ -13,7 +13,8 @@ public class PlayerController : MonoBehaviour
     private bool b_crouch;
 
     private float f_horizontalMove;
-    public Rigidbody2D rb;
+    private float f_speedDir;
+    [SerializeField] private Animator m_anim;
 
     // Start is called before the first frame update
     void Start()
@@ -32,6 +33,10 @@ public class PlayerController : MonoBehaviour
             {
                 b_jump = true;
             }
+
+            //Animation
+            f_speedDir = Mathf.Abs(f_horizontalMove);
+            m_anim.SetFloat("Walk", f_speedDir);
         }
     }
     private void FixedUpdate()
