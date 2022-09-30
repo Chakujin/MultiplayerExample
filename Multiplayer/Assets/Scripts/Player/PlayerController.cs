@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
 
     private float f_horizontalMove;
     private float f_speedDir;
+    public Vector2 lastPos;
     [SerializeField] private Animator m_anim;
 
     // Start is called before the first frame update
@@ -31,6 +32,7 @@ public class PlayerController : MonoBehaviour
 
             if (Input.GetButtonDown("Jump") && b_jump == false)
             {
+                lastPos = transform.position;
                 b_jump = true;
             }
 
