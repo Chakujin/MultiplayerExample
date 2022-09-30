@@ -1,13 +1,13 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Spikes : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if(collision.tag == "Player")
+        if(other.tag == "Player")
         {
-            SceneManager.LoadScene("Game");
+            Vector2 lastPos = other.GetComponent<PlayerController>().lastPos;
+            PlayerEvents.ResetPlayerPosition(other.gameObject,lastPos); //Reset Level
         }
     }
 }

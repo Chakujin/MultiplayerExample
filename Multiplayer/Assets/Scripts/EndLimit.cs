@@ -7,12 +7,7 @@ public class EndLimit : MonoBehaviour
         if(other.tag == "Player")
         {
             Vector2 lastPos = other.GetComponent<PlayerController>().lastPos;
-            ResetPosition(other.gameObject,lastPos);
+            PlayerEvents.ResetPlayerPosition(other.gameObject,lastPos); //Reset Pos
         }    
-    }
-
-    private void ResetPosition(GameObject player, Vector2 lastPos)
-    {
-        player.transform.position = lastPos;
     }
 }
