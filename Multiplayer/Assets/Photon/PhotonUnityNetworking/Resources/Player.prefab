@@ -54,7 +54,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 2694250995160773170}
+  m_myMesh: {fileID: 944559549305395918}
+  m_myCol:
+  - {fileID: 1716620579894115528}
+  - {fileID: 4466857504379274327}
   f_speed: 70
+  lastPos: {x: 0, y: 0}
   m_anim: {fileID: 1551671053594407114}
 --- !u!114 &2694250995160773170
 MonoBehaviour:
@@ -303,7 +308,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 8335410136597526796, guid: 219ed66a3cc007242a3419bbd821597c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
