@@ -22,7 +22,7 @@ public class Key : MonoBehaviour
         {
             //Smooth path player
             Vector2 playerPos = new Vector2(m_lastPlayer.transform.position.x,m_lastPlayer.transform.position.y + 1);
-            transform.position = Vector2.SmoothDamp(transform.position,playerPos,ref m_speed,f_delayTime);
+            transform.position = Vector2.SmoothDamp(transform.position,playerPos,ref m_speed,f_delayTime);  
         }
     }
 }
