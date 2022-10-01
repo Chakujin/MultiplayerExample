@@ -2647,10 +2647,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Key
       objectReference: {fileID: 0}
-    - target: {fileID: 2764681728365674344, guid: 3db1a94ed5240492a96da64675489790, type: 3}
-      propertyPath: f_delayTime
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 6903064776497364996, guid: 3db1a94ed5240492a96da64675489790, type: 3}
       propertyPath: m_RootOrder
       value: 9
