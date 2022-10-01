@@ -10,8 +10,6 @@ public class SpawnPlayers : MonoBehaviour
     private void Start()
     {
         Vector2 randomPos = new Vector2(Random.Range(f_minX, f_maxX), Random.Range(f_minY, f_maxY));
-        GameObject newPlayer =  PhotonNetwork.Instantiate(playerPrefab.name,randomPos, Quaternion.identity);
-
-        //DoorScript.UpdatePlayerTotal(newPlayer); //Add player door list total players
+        PhotonNetwork.Instantiate(playerPrefab.name,randomPos, Quaternion.identity);
     }
 }
