@@ -9,10 +9,6 @@ public class DoorScript : MonoBehaviour
 
     [SerializeField]private bool b_open = false;
 
-    private void Start() {
-        
-    }
-
     private void OnTriggerEnter2D(Collider2D other) 
     {
         if(other.tag == "Key")

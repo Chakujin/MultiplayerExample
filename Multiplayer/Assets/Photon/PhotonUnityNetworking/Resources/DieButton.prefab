@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 3195641488027578790}
   - component: {fileID: 118297630255693632}
   - component: {fileID: 39901099149913888}
+  - component: {fileID: -1892559025592221011}
   m_Layer: 0
-  m_Name: Spikes
+  m_Name: DieButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -1
-  m_Sprite: {fileID: 3625043607559282579, guid: 045b15ec09bba42448d89db77fa6f20a, type: 3}
+  m_Sprite: {fileID: -4067715412364207161, guid: 45a973543b1918f46b3850f2935822e6, type: 3}
   m_Color: {r: 0.9056604, g: 0.065503664, b: 0.065503664, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -101,7 +102,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 0.5}
+    oldSize: {x: 1.0909091, y: 0.6121212}
     newSize: {x: 1, y: 0.5}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -122,3 +123,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58f18bcdf1bf6d44eb9d1932f971fd3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &-1892559025592221011
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7652317900048923494}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

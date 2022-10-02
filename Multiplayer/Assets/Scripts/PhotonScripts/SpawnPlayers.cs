@@ -3,6 +3,7 @@ using Photon.Pun;
 
 public class SpawnPlayers : MonoBehaviour
 {
+    //Variables
     public GameObject playerPrefab;
 
     [SerializeField] private float f_minX, f_maxX, f_minY, f_maxY;
