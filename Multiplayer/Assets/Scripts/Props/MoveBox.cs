@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MoveBox : MonoBehaviour
 {
-    private Rigidbody2D m_myRb;
+    [SerializeField]private Rigidbody2D m_myRb;
     [SerializeField] private int i_totalPlayersToPush;
     private int i_currentPlayersPush;
 
