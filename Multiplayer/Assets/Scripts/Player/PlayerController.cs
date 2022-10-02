@@ -33,6 +33,8 @@ public class PlayerController : MonoBehaviour
     {
         m_View = GetComponent<PhotonView>();
         m_rb = GetComponent<Rigidbody2D>();
+
+        DieButton.RestartSceneCallback += RestartScene; //Event when press button
     }
 
     // Update is called once per frame
@@ -71,6 +73,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    #region Voids
     public void DoorEnter()
     {
         m_myMesh.enabled = false;
@@ -84,6 +87,16 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    private void RestartScene()
+    {
+        b_move = false;
+        
+        //Stop player move and animation
+        f_horizontalMove = 0;
+        f_speedDir = 0;
+        m_anim.SetFloat("Walk", f_speedDir);
+    }
+    #endregion
     private void OnDrawGizmos() 
     {
             Gizmos.DrawCube(m_detectPos.position, f_sizeDetector);
