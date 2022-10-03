@@ -21,13 +21,13 @@ public class AnimationStartEnd : MonoBehaviour
     {
         m_endSphere.gameObject.SetActive(true);
         m_endSphere.DOMoveX(m_startPos.position.x, 0f); //ResetPos
-        m_endSphere.DOMoveX(m_endPos.position.x, 3f).OnComplete(() => m_endSphere.gameObject.SetActive(false)); //Move
+        m_endSphere.DOMoveX(m_endPos.position.x, 3f).SetEase(Ease.InQuart).OnComplete(() => m_endSphere.gameObject.SetActive(false)); //Move
     }
 
     private void EndSceneAnim()
     {
         m_endSphere.gameObject.SetActive(true);
         m_endSphere.DOMoveX(-m_endPos.position.x, 0f); //ResetPos
-        m_endSphere.DOMoveX(m_startPos.position.x, 3f); //Move
+        m_endSphere.DOMoveX(m_startPos.position.x, 3f).SetEase(Ease.InQuart); //Move
     }
 }

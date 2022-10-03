@@ -1,4 +1,6 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DieButton : MonoBehaviour
 {
@@ -17,7 +19,14 @@ public class DieButton : MonoBehaviour
                 m_anim.SetBool("Press", true);
                 b_press = true;
                 RestartSceneCallback.Invoke();
+                StartCoroutine(RestartCurrentScene());
             }
         }
+    }
+
+    private IEnumerator RestartCurrentScene()
+    {
+        yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
