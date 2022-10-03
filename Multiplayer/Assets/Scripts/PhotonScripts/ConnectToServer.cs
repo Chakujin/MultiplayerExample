@@ -1,20 +1,25 @@
 using Photon.Pun;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class ConnectToServer : MonoBehaviourPunCallbacks
 {
+    public TMP_InputField usuarnameInput;
+    public TMP_Text buttonText;
+
     // Start is called before the first frame update
-    private void Start()
+    public void OnClickConnect()
     {
-        PhotonNetwork.ConnectUsingSettings();   
+        if( usuarnameInput.text.Length >= 1)
+        {
+            PhotonNetwork.NickName = usuarnameInput.text;
+            buttonText.text = "Connecting...";
+            PhotonNetwork.AutomaticallySyncScene = true;
+            PhotonNetwork.ConnectUsingSettings();
+        }
     }
 
     public override void OnConnectedToMaster()
-    {
-        PhotonNetwork.JoinLobby();
-    }
-
-    public override void OnJoinedLobby()
     {
         SceneManager.LoadScene("Lobby");
     }
