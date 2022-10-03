@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 6114879106043609184}
   - component: {fileID: 7448155756845506870}
   - component: {fileID: 3045745219921444054}
+  - component: {fileID: 2112716977577706508}
+  - component: {fileID: -2987031706002059928}
   m_Layer: 0
   m_Name: Door
   m_TagString: Door
@@ -117,6 +119,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_animator: {fileID: 6114879106043609184}
+  i_currentPlayers: 0
+  i_enterPlayers: 0
   b_open: 0
 --- !u!61 &3045745219921444054
 BoxCollider2D:
@@ -144,3 +148,41 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.5272727, y: 2.5878787}
   m_EdgeRadius: 0
+--- !u!114 &2112716977577706508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5393247707501323765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  Synchronization: 3
+  OwnershipTransfer: 0
+  observableSearch: 2
+  ObservedComponents: []
+  sceneViewId: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
+--- !u!114 &-2987031706002059928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5393247707501323765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8c4a61274f60b4ea5fb4299cfdbf14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowLayerWeightsInspector: 1
+  ShowParameterInspector: 1
+  m_SynchronizeParameters: []
+  m_SynchronizeLayers: []
