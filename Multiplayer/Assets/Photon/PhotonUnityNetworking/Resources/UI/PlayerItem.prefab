@@ -119,7 +119,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3960052598507802701}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2759160268674195816}
+        m_TargetAssemblyTypeName: PlayerItemScript, Assembly-CSharp
+        m_MethodName: OnClickLeftArrow
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &3541563493226748018
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,7 +251,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6465150998970918805}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2759160268674195816}
+        m_TargetAssemblyTypeName: PlayerItemScript, Assembly-CSharp
+        m_MethodName: OnClicRigthtArrow
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &3854006859667970903
 GameObject:
   m_ObjectHideFlags: 0
@@ -442,7 +466,9 @@ MonoBehaviour:
   LeftArrow: {fileID: 1964050423536719515}
   RigthArrow: {fileID: 3541563493226748018}
   playerAvatar: {fileID: 7990184343667338118}
-  avatars: []
+  avatarsData:
+  - {fileID: 11400000, guid: 33a5d1b4b564fe24a800e07610d723e6, type: 2}
+  - {fileID: 11400000, guid: 8b6a749b118d6c44089b34b3ad38cb49, type: 2}
 --- !u!1 &6955937638214115274
 GameObject:
   m_ObjectHideFlags: 0
@@ -478,7 +504,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 150, y: 280}
+  m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2105142042364756011
 CanvasRenderer:
@@ -508,7 +534,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 8335410136597526796, guid: 219ed66a3cc007242a3419bbd821597c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -8,6 +8,7 @@ using UnityEngine.UI;
 
 public class PlayerItemScript : MonoBehaviourPunCallbacks
 {
+    //Player settings only canvas
     public TMP_Text playerName;
     [SerializeField] private Image backgroundImage;
     [SerializeField] private Color highlightColor;
@@ -17,7 +18,7 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
     ExitGames.Client.Photon.Hashtable playerProperties = new ExitGames.Client.Photon.Hashtable();
     
     [SerializeField] private Image playerAvatar;
-    [SerializeField] Sprite[] avatars;
+    [SerializeField] private PlayerItemData[] avatarsData;
 
     private Player m_player;
 
@@ -35,11 +36,11 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
         RigthArrow.SetActive(true);
     }
 
-    public void OnCliCkLeftArrow()
+    public void OnClickLeftArrow()
     {
         if ((int)playerProperties["playerAvatar"] == 0)
         {
-            playerProperties["playerAvatar"] = avatars.Length - 1;
+            playerProperties["playerAvatar"] = avatarsData.Length - 1;
         }
         else
         {
@@ -49,11 +50,11 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
         PhotonNetwork.SetPlayerCustomProperties(playerProperties);
     }
 
-    public void OnClickLeftArrow()
+    public void OnClicRigthtArrow()
     {
-        if ((int)playerProperties["playerAvatar"] == avatars.Length - 1)
+        if ((int)playerProperties["playerAvatar"] == avatarsData.Length - 1)
         {
-            playerProperties["playerAvatar"] =0;
+            playerProperties["playerAvatar"] = 0;
         }
         else
         {
@@ -75,7 +76,7 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
     {
         if (player.CustomProperties.ContainsKey("playerAvatar"))
         {
-            playerAvatar.sprite = avatars[(int)player.CustomProperties["playerAvatar"]];
+            playerAvatar.sprite = avatarsData[(int)player.CustomProperties["playerAvatar"]].selectionImage; // Put image selection
             playerProperties["playerAvatar"] = (int)player.CustomProperties["playerAvatar"];
         }
         else
