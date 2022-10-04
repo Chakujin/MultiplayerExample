@@ -469,6 +469,7 @@ MonoBehaviour:
   avatarsData:
   - {fileID: 11400000, guid: 33a5d1b4b564fe24a800e07610d723e6, type: 2}
   - {fileID: 11400000, guid: 8b6a749b118d6c44089b34b3ad38cb49, type: 2}
+  - {fileID: 11400000, guid: 487fd4c1c65e56641abee098f959ec12, type: 2}
 --- !u!1 &6955937638214115274
 GameObject:
   m_ObjectHideFlags: 0

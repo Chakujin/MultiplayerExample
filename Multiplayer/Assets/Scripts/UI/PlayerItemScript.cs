@@ -24,7 +24,7 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
     {
         playerName.text = _player.NickName; //Current name to player
         m_player = _player; //Pass local data player
-        UpdatePlayerInfo(_player); //Update
+        UpdatePlayerInfo(m_player); //Update
     }
 
     public void ApplyLocalChanges()
