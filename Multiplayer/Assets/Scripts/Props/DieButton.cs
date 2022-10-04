@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Photon.Pun;
 
 public class DieButton : MonoBehaviour
 {
@@ -27,6 +28,6 @@ public class DieButton : MonoBehaviour
     private IEnumerator RestartCurrentScene()
     {
         yield return new WaitForSeconds(3f);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        PhotonNetwork.LoadLevel(SceneManager.GetActiveScene().buildIndex);
     }
 }
