@@ -7,7 +7,7 @@ using Photon.Realtime;
 public class PlayerListScript : MonoBehaviourPunCallbacks
 {
     //Create itemlist players
-    public List<PlayerItemScript> playerItemList = new List<PlayerItemScript>();
+    [SerializeField] private List<PlayerItemScript> m_playerItemList = new List<PlayerItemScript>();
     public PlayerItemScript playerItemPrefab;
     public Transform playerItemParent;
 
@@ -16,14 +16,16 @@ public class PlayerListScript : MonoBehaviourPunCallbacks
         LobbyManager.PlayerJoinedRoomCallback += UpdatePlayerList;
     }
 
-    private void UpdatePlayerList()
+    public void UpdatePlayerList()
     {
-        foreach (PlayerItemScript item in playerItemList)
+        //Clean All players
+        foreach (PlayerItemScript item in m_playerItemList) 
         {
             Destroy(item.gameObject);
-            playerItemList.Clear();
         }
+        m_playerItemList.Clear();
 
+        //If is not this room return
         if (PhotonNetwork.CurrentRoom == null)
         {
             return;
@@ -31,15 +33,16 @@ public class PlayerListScript : MonoBehaviourPunCallbacks
 
         foreach (KeyValuePair<int, Player> player in PhotonNetwork.CurrentRoom.Players)
         {
-            PlayerItemScript newPlayerItem = Instantiate(playerItemPrefab, playerItemParent);
-            newPlayerItem.SetPlayerInfo(player.Value);
-            
-            if(player.Value == PhotonNetwork.LocalPlayer)
+            PlayerItemScript newPlayerItem = Instantiate(playerItemPrefab, playerItemParent); //Instantiate player
+
+            newPlayerItem.SetPlayerInfo(player.Value);//Set info
+
+            if (player.Value == PhotonNetwork.LocalPlayer)
             {
-                newPlayerItem.ApplyLocalChanges();
+                newPlayerItem.ApplyLocalChanges(); //If is your player apply changes
             }
 
-            playerItemList.Add(newPlayerItem);
+            m_playerItemList.Add(newPlayerItem); //Add player room list
         }
     }
 

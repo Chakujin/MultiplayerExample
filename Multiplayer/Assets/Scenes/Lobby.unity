@@ -1151,7 +1151,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00006233598}
+  m_AnchoredPosition: {x: 0, y: 0.000019791738}
   m_SizeDelta: {x: 0, y: 889.38}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1247589029
@@ -2511,7 +2511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6027e11a13e29bf4e8b91e543cbb2362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerItemList: []
+  m_playerItemList: []
   playerItemPrefab: {fileID: 2759160268674195816, guid: 932b198334936954cb0c8e0057480d63, type: 3}
   playerItemParent: {fileID: 1257198650}
 --- !u!1 &1929725147

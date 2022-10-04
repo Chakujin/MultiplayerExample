@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D m_rb;
     [SerializeField] private SpriteRenderer m_myMesh;
     [SerializeField] private BoxCollider2D[] m_myCol;
-    [SerializeField] private Animator m_anim;
+    [SerializeField] public Animator m_anim;
 
     //Movement
     private const float f_speed = 70f;

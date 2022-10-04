@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using Photon.Pun;
@@ -24,9 +22,9 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
 
     public void SetPlayerInfo(Player _player)
     {
-        playerName.text = _player.NickName;
-        m_player = _player;
-        UpdatePlayerInfo(_player);
+        playerName.text = _player.NickName; //Current name to player
+        m_player = _player; //Pass local data player
+        UpdatePlayerInfo(_player); //Update
     }
 
     public void ApplyLocalChanges()

@@ -1,7 +1,8 @@
 using UnityEngine;
 using Photon.Pun;
+using Photon.Realtime;
 
-public class SpawnPlayers : MonoBehaviour
+public class SpawnPlayers : MonoBehaviourPunCallbacks
 {
     //Variables
     public GameObject[] playerPrefab;
@@ -12,6 +13,15 @@ public class SpawnPlayers : MonoBehaviour
     {
         Vector2 randomPos = new Vector2(Random.Range(f_minX, f_maxX), Random.Range(f_minY, f_maxY));
         GameObject playerToSpawn = playerPrefab[(int)PhotonNetwork.LocalPlayer.CustomProperties["playerAvatar"]];
-        PhotonNetwork.Instantiate(playerToSpawn.name,randomPos, Quaternion.identity);
+        PhotonNetwork.Instantiate(playerToSpawn.name,randomPos, Quaternion.identity);  
+
     }
+    /*
+    private void SetPlayerInfo(Player _player)
+    {
+        playerName.text = _player.NickName;
+        m_player = _player;
+        UpdatePlayerInfo(_player);
+    }
+    */
 }

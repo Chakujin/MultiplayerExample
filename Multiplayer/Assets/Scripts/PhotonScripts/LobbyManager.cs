@@ -17,7 +17,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     
     [SerializeField] private Transform contentObjects;
 
-    private const float f_timeBetweenUpdates = 1.5f;
+    private float f_timeBetweenUpdates = 1.5f;
     private float f_nextUpdateTime;
 
     [SerializeField] private GameObject playButton;
@@ -25,6 +25,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     //PlayerJoinedRoomEvent
     public delegate void PlayerJoinedRoom();
     public static event PlayerJoinedRoom PlayerJoinedRoomCallback;
+
 
     // Start is called before the first frame update
     void Start()
@@ -34,7 +35,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
 
     private void Update()
     {
-        if (PhotonNetwork.IsMasterClient && PhotonNetwork.CurrentRoom.PlayerCount >= 2)
+        if (PhotonNetwork.IsMasterClient && PhotonNetwork.CurrentRoom.PlayerCount >= 1) //Min num players to start
         {
             playButton.SetActive(true);
         }
@@ -67,8 +68,8 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     }
 
     public override void OnRoomListUpdate(List<RoomInfo> roomList)
-    {
-        if(Time.time >= f_nextUpdateTime)
+    {  
+        if (Time.time >= f_nextUpdateTime) //Update Time lobby
         {
             UpdateRoomList(roomList);
             f_nextUpdateTime = Time.time + f_timeBetweenUpdates;
@@ -77,12 +78,14 @@ public class LobbyManager : MonoBehaviourPunCallbacks
 
     private void UpdateRoomList(List<RoomInfo> list)
     {
+        //CleanAll
         foreach(RoomItem item in roomItemsList)
         {
             Destroy(item.gameObject);
         }
         roomItemsList.Clear();
         
+        //InstantiateNews
         foreach(RoomInfo room in list)
         {
             RoomItem newRoom = Instantiate(roomItemPrefab, contentObjects);
