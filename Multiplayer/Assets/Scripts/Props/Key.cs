@@ -18,11 +18,18 @@ public class Key : MonoBehaviour
 
     private void Update() 
     {
-        if(b_start == true)
+        if (b_start == true)
         {
-            //Smooth path player
-            Vector2 playerPos = new Vector2(m_lastPlayer.transform.position.x,m_lastPlayer.transform.position.y + 1);
-            transform.position = Vector2.SmoothDamp(transform.position,playerPos,ref m_speed,f_delayTime);  
+            if (m_lastPlayer == null) //Player dissconect
+            {
+                b_start = false;
+            }
+            else
+            {
+                //Smooth path player
+                Vector2 playerPos = new Vector2(m_lastPlayer.transform.position.x, m_lastPlayer.transform.position.y + 1);
+                transform.position = Vector2.SmoothDamp(transform.position, playerPos, ref m_speed, f_delayTime);
+            }
         }
     }
 }
