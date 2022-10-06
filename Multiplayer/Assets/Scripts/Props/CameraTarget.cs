@@ -1,8 +1,6 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
-using Photon.Realtime;
 
 public class CameraTarget : MonoBehaviourPunCallbacks
 {
@@ -35,9 +33,9 @@ public class CameraTarget : MonoBehaviourPunCallbacks
         //Calculate all time min pos player and max pos
         foreach (GameObject player in m_currentPlayes)
         {
-            if (player == null)
+            if (player == null) //If one player back the game
             {
-                UpdateList();
+                UpdateList(); // Update total game list
                 return;
             }
             m_playerPos.Add(player.transform.position.x); //Take All x Pos
@@ -80,12 +78,5 @@ public class CameraTarget : MonoBehaviourPunCallbacks
     {
         m_currentPlayes.Clear();
         m_currentPlayes.AddRange(GameObject.FindGameObjectsWithTag("Player"));
-    }
-    //Players Enter and Back room
-
-    public override void OnPlayerLeftRoom(Player otherPlayer) //Va cuando se sale
-    {
-        Debug.Log("Back");
-        UpdateList();
     }
 }

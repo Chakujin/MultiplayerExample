@@ -138,7 +138,7 @@ public class PlayerController : MonoBehaviour
         //Stop player move and animation
         f_horizontalMove = 0;
         f_speedDir = 0;
-        m_anim.SetFloat("Walk", f_speedDir);
+        //m_anim.SetFloat("Walk", f_speedDir);
     }
     #endregion
     

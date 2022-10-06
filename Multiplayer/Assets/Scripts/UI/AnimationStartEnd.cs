@@ -16,7 +16,10 @@ public class AnimationStartEnd : MonoBehaviour
     {
         DieButton.RestartSceneCallback += EndSceneAnim; //EndAmi,
     }
-
+    private void OnDisable()
+    {
+        DieButton.RestartSceneCallback -= EndSceneAnim;
+    }
     private void StartSceneAnim()
     {
         m_endSphere.gameObject.SetActive(true);
