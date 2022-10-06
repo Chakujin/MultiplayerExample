@@ -28,40 +28,41 @@ public class CameraTarget : MonoBehaviourPunCallbacks
     // Update is called once per frame
     void Update()
     {
-        if(m_currentPlayes != null)
+        //Reset position
+        f_min = transform.position.x;
+        f_max = transform.position.x;
+
+        //Calculate all time min pos player and max pos
+        foreach (GameObject player in m_currentPlayes)
         {
-            //Reset position
-            f_min = transform.position.x;
-            f_max = transform.position.x;
-
-            //Calculate all time min pos player and max pos
-            foreach (GameObject player in m_currentPlayes)
+            if (player == null)
             {
-                m_playerPos.Add(player.transform.position.x); //Take All x Pos
+                UpdateList();
+                return;
             }
-            //Find min num
-            for (int i = 0; i < m_playerPos.Count; i++)
-            {
-                if (m_playerPos[i] < f_min)
-                {
-                    Debug.Log("SetMin");
-                    f_min = m_playerPos[i];
-                }
-            }
-
-            //Find man num
-            for (int i = 0; i < m_playerPos.Count; i++)
-            {
-                if (m_playerPos[i] > f_max)
-                {
-                    Debug.Log("SetMax");
-                    f_max = m_playerPos[i];
-                }
-            }
-            //Pass valor
-            v_maxPlayer.x = f_max;
-            v_minPlayer.x = f_min;
+            m_playerPos.Add(player.transform.position.x); //Take All x Pos
         }
+        //Find min num
+        for (int i = 0; i < m_playerPos.Count; i++)
+        {
+            if (m_playerPos[i] < f_min)
+            {
+                f_min = m_playerPos[i];
+            }
+        }
+        
+        //Find man num
+        for (int i = 0; i < m_playerPos.Count; i++)
+        {
+            if (m_playerPos[i] > f_max)
+            {
+                f_max = m_playerPos[i];
+            }
+        }
+        
+        //Pass valor
+        v_maxPlayer.x = f_max;
+        v_minPlayer.x = f_min;
     }
 
     private void FixedUpdate()
