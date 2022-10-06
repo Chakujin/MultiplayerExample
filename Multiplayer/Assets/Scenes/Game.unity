@@ -170,6 +170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpawnPlayers
       objectReference: {fileID: 0}
+    - target: {fileID: 7935875788791965926, guid: c4e7481485020469683876c66bdae1e4, type: 3}
+      propertyPath: m_cameraTarget
+      value: 
+      objectReference: {fileID: 1011785953}
     - target: {fileID: 7935875788791965927, guid: c4e7481485020469683876c66bdae1e4, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -543,6 +547,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02b19ea09fedb481d967ddc59aa7afdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerPos: []
+  minPlayer: {x: 0, y: 0}
+  maxPlayer: {x: 0, y: 0}
+  midPos: {x: 0, y: 0}
+  m_currentPlayes: []
 --- !u!4 &1011785954
 Transform:
   m_ObjectHideFlags: 0
