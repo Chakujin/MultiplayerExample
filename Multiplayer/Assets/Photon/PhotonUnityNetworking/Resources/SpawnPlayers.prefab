@@ -47,6 +47,7 @@ MonoBehaviour:
   - {fileID: 864903098627374438, guid: 801e72dc4ba3c4e42b1598f5957c7981, type: 3}
   - {fileID: 864903098627374438, guid: c1d69378f6b9cb2429ad9311035e427c, type: 3}
   - {fileID: 864903098627374438, guid: 4accf5fc34a267e42befc8a92b3221fe, type: 3}
+  m_cameraTarget: {fileID: 0}
   f_minX: -1
   f_maxX: 1
   f_minY: 3

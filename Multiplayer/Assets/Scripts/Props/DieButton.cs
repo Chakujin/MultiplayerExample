@@ -19,14 +19,14 @@ public class DieButton : MonoBehaviour
             {
                 m_anim.SetBool("Press", true);
                 b_press = true;
-                RestartSceneCallback.Invoke();
                 StartCoroutine(RestartCurrentScene());
             }
         }
     }
 
-    private IEnumerator RestartCurrentScene()
+    public static IEnumerator RestartCurrentScene()
     {
+        RestartSceneCallback.Invoke();
         yield return new WaitForSeconds(3f);
         PhotonNetwork.LoadLevel(SceneManager.GetActiveScene().buildIndex);
     }
