@@ -1,5 +1,6 @@
 using Photon.Pun;
 using UnityEngine.SceneManagement;
+using UnityEngine;
 using TMPro;
 
 public class ConnectToServer : MonoBehaviourPunCallbacks
@@ -12,6 +13,7 @@ public class ConnectToServer : MonoBehaviourPunCallbacks
     {
         if( usuarnameInput.text.Length >= 1)
         {
+            GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Button");
             PhotonNetwork.NickName = usuarnameInput.text;
             buttonText.text = "Connecting...";
             PhotonNetwork.AutomaticallySyncScene = true;

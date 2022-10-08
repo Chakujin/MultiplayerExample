@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
@@ -49,13 +48,15 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     {
         if(roomInputField.text.Length >= 1)
         {
+            GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Button");
             PhotonNetwork.CreateRoom(roomInputField.text, new RoomOptions() { MaxPlayers = 3,BroadcastPropsChangeToAll = true });
         }
     }
 
     public void OnClickPlayButton()
     {
-        PhotonNetwork.LoadLevel("Game");
+        GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Button");
+        PhotonNetwork.LoadLevel("Level1");
     }
 
     public override void OnJoinedRoom()
@@ -101,6 +102,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
 
     public void OnClickLeaveRoom()
     {
+        GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Button");
         PhotonNetwork.LeaveRoom();
     }
 

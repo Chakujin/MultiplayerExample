@@ -17,6 +17,7 @@ public class RoomItem : MonoBehaviour
 
     public void OnClickItem()
     {
+        GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Button");
         m_lobby.JoinRoom(roomName.text);
     }
 }
