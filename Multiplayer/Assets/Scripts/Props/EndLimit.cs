@@ -7,7 +7,8 @@ public class EndLimit : MonoBehaviour
     {
         if(other.tag == "Player")
         {
-            if(b_restartGame == false)
+            GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().Play("Fall");
+            if (b_restartGame == false)
             {
             Vector2 lastPos = other.GetComponent<PlayerController>().lastPos;
             PlayerEvents.ResetPlayerPosition(other.gameObject,lastPos); //Reset Pos

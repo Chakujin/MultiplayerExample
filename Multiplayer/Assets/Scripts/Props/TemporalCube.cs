@@ -21,6 +21,7 @@ public class TemporalCube : MonoBehaviour
     private IEnumerator StartFall()
     {
         yield return new WaitForSeconds(0.5f);
+        GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().Play("RedBox");
         myRb.bodyType = RigidbodyType2D.Dynamic;
     }
 }
