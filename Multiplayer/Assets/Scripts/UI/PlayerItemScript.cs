@@ -8,8 +8,6 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
 {
     //Player settings only canvas
     public TMP_Text playerName;
-    [SerializeField] private Image backgroundImage;
-    [SerializeField] private Color highlightColor;
     [SerializeField] private GameObject LeftArrow;
     [SerializeField] private GameObject RigthArrow;
 
@@ -29,7 +27,6 @@ public class PlayerItemScript : MonoBehaviourPunCallbacks
 
     public void ApplyLocalChanges()
     {
-        backgroundImage.color = highlightColor;
         LeftArrow.SetActive(true);
         RigthArrow.SetActive(true);
     }
