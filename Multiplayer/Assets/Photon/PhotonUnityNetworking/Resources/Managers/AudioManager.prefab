@@ -51,7 +51,40 @@ MonoBehaviour:
     maxPitch: 2
     volume: 1
     pitch: 1
-    outputMixer: MainMixer
+    outputMixer: Master
+    loop: 0
+    PlayOnAwake: 0
+    source: {fileID: 0}
+  - name: Door
+    clip: {fileID: 8300000, guid: 33b577f6f93244a06832f381d73eb923, type: 3}
+    audioMixer: {fileID: 24100000, guid: 5f0d56b6bc4f3459986fbeb9c3c8b462, type: 2}
+    minPitch: 1
+    maxPitch: 2
+    volume: 1
+    pitch: 1
+    outputMixer: Master
+    loop: 0
+    PlayOnAwake: 0
+    source: {fileID: 0}
+  - name: Click
+    clip: {fileID: 8300000, guid: 1a09259a1737f4bec99da84b201a2f46, type: 3}
+    audioMixer: {fileID: 24100000, guid: 5f0d56b6bc4f3459986fbeb9c3c8b462, type: 2}
+    minPitch: 1
+    maxPitch: 2
+    volume: 1
+    pitch: 1
+    outputMixer: Master
+    loop: 0
+    PlayOnAwake: 0
+    source: {fileID: 0}
+  - name: Jump
+    clip: {fileID: 8300000, guid: fb8234e8b4c6e41e297ab2333380c355, type: 3}
+    audioMixer: {fileID: 24100000, guid: 5f0d56b6bc4f3459986fbeb9c3c8b462, type: 2}
+    minPitch: 1
+    maxPitch: 2
+    volume: 1
+    pitch: 1
+    outputMixer: Master
     loop: 0
     PlayOnAwake: 0
     source: {fileID: 0}

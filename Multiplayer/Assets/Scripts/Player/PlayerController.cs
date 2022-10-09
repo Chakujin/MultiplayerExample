@@ -52,6 +52,7 @@ public class PlayerController : MonoBehaviour
 
             if (Input.GetButtonDown("Jump") && b_jump == false && b_havePlayer == false)
             {
+                GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Jump");
                 lastPos = transform.position;
                 b_jump = true;
             }

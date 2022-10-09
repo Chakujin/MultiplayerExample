@@ -9,10 +9,16 @@ public class DoorScript : MonoBehaviour
 
     [SerializeField]private bool b_open = false;
 
+    private void Start() 
+    {
+        AddPlayer();
+    }
+
     private void OnTriggerEnter2D(Collider2D other) 
     {
         if(other.tag == "Key")
         {
+            GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Door");
             b_open = true;
             m_animator.SetBool("Open",true); // Animation
             AddPlayer(); //Take total players current ingame
@@ -32,10 +38,7 @@ public class DoorScript : MonoBehaviour
 
     private void AddPlayer()
     {
-        /*
-        No encuentro la manera de usar algun evento que me update el numero total cada vez que 
-        entre o salga un jugador (Almenos sin el PUN2 que tiene eventos para esto)
-        */
         i_currentPlayers = PhotonNetwork.PlayerList.Length;
+        Debug.Log(i_currentPlayers);
     }
 }

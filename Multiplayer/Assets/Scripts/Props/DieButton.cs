@@ -19,6 +19,7 @@ public class DieButton : MonoBehaviour
             {
                 m_anim.SetBool("Press", true);
                 b_press = true;
+                GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>().PlayRandomPitch("Click");
                 StartCoroutine(RestartCurrentScene());
             }
         }
